@@ -1,4 +1,4 @@
-# Embedded Microprocessor Systems Labs (ESE381, 2025)
+# Embedded Microprocessor Systems Labs
 
 This repository contains lab files and project implementations from a hands-on embedded systems course focused on AVR microcontroller development. The course walks through the full embedded system design cycle — from requirements specification to real-time prototyping and final system integration.
 
