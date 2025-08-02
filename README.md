@@ -42,7 +42,7 @@ This repository contains lab files and project implementations from a hands-on e
 
 - **Course**: ESE 381 – Embedded Microprocessor Systems  
 - **Institution**: Stony Brook University  
-- **Instructor**: Professor Short  
+- **Instructor**: Prof Kenneth short  
 - **Semester**: Spring 2025
 
 ---
