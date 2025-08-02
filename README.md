@@ -12,18 +12,18 @@ This repository contains lab files and project implementations from a hands-on e
 - Multi-module system design and modular C structure  
 - Interfacing high-level C with low-level AVR assembly  
 - Debugging using breakpoints, register inspection, and logic analyzers  
-- Serial communication (USART)  
-- Task scheduling, bit masking, and state machines
+- Serial communication (USART, I2C, SPI)  
+- Bit masking, and state machines
 
 ---
 
 ## ⚙️ Tools & Hardware
 
 - **Microcontroller**: AVR (e.g., ATmega series)  
-- **IDE**: Atmel Studio  
+- **IDE**: Atmel Studio 
 - **Debugger**: Built-in breakpoints and I/O register monitoring  
 - **Analyzer**: Saleae Logic Analyzer for digital signal timing  
-- **Language**: C and AVR Assembly
+- **Language**: C and Doxygen style comments 
 
 ---
 
